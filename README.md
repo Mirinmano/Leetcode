@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
+| [0565-array-nesting](https://github.com/Mirinmano/Leetcode/tree/master/0565-array-nesting) |
 | [0859-design-circular-deque](https://github.com/Mirinmano/Leetcode/tree/master/0859-design-circular-deque) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Mirinmano/Leetcode/tree/master/0859-design-circular-deque) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/Mirinmano/Leetcode/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->

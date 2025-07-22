@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Hash Table
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

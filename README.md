@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mirinmano/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Mirinmano/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0688-knight-probability-in-chessboard](https://github.com/Mirinmano/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 ## Recursion
 |  |
 | ------- |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mirinmano/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Math
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mirinmano/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mirinmano/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mirinmano/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |

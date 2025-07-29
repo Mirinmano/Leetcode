@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Mirinmano/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Mirinmano/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
+| [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 | [0565-array-nesting](https://github.com/Mirinmano/Leetcode/tree/master/0565-array-nesting) |
 | [0859-design-circular-deque](https://github.com/Mirinmano/Leetcode/tree/master/0859-design-circular-deque) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mirinmano/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mirinmano/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mirinmano/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mirinmano/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mirinmano/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mirinmano/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Mirinmano/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 | [0688-knight-probability-in-chessboard](https://github.com/Mirinmano/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Recursion
@@ -130,4 +135,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

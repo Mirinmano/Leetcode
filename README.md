@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
+| [0146-lru-cache](https://github.com/Mirinmano/Leetcode/tree/master/0146-lru-cache) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/Mirinmano/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mirinmano/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Mirinmano/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/Mirinmano/Leetcode/tree/master/0146-lru-cache) |
 | [0859-design-circular-deque](https://github.com/Mirinmano/Leetcode/tree/master/0859-design-circular-deque) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Mirinmano/Leetcode/tree/master/0146-lru-cache) |
 | [0859-design-circular-deque](https://github.com/Mirinmano/Leetcode/tree/master/0859-design-circular-deque) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mirinmano/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Mirinmano/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

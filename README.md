@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mirinmano/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Mirinmano/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Mirinmano/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Mirinmano/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Mirinmano/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Mirinmano/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
 | ------- |

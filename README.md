@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Mirinmano/Leetcode/tree/master/0118-pascals-triangle) |
 | [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mirinmano/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/Mirinmano/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0565-array-nesting](https://github.com/Mirinmano/Leetcode/tree/master/0565-array-nesting) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mirinmano/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mirinmano/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0354-russian-doll-envelopes](https://github.com/Mirinmano/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mirinmano/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mirinmano/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mirinmano/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mirinmano/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mirinmano/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mirinmano/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -198,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Mirinmano/Leetcode/tree/master/0354-russian-doll-envelopes) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mirinmano/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Mirinmano/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->

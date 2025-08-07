@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mirinmano/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0037-sudoku-solver](https://github.com/Mirinmano/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Mirinmano/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Mirinmano/Leetcode/tree/master/0118-pascals-triangle) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mirinmano/Leetcode/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Mirinmano/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mirinmano/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mirinmano/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Mirinmano/Leetcode/tree/master/0037-sudoku-solver) |
 | [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Mirinmano/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |

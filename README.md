@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Mirinmano/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mirinmano/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mirinmano/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Linked List
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Mirinmano/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0688-knight-probability-in-chessboard](https://github.com/Mirinmano/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Recursion
 |  |
 | ------- |

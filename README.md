@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/Mirinmano/Leetcode/tree/master/0859-design-circular-deque) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Mirinmano/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mirinmano/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/Mirinmano/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mirinmano/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mirinmano/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mirinmano/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer

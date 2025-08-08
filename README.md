@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mirinmano/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mirinmano/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mirinmano/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Mirinmano/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mirinmano/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mirinmano/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mirinmano/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Mirinmano/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mirinmano/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mirinmano/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mirinmano/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Mirinmano/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer

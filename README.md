@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mirinmano/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/Mirinmano/Leetcode/tree/master/0118-pascals-triangle) |
+| [0137-single-number-ii](https://github.com/Mirinmano/Leetcode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 | [0260-single-number-iii](https://github.com/Mirinmano/Leetcode/tree/master/0260-single-number-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Mirinmano/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Mirinmano/Leetcode/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Mirinmano/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Mirinmano/Leetcode/tree/master/0260-single-number-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |

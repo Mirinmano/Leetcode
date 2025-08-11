@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Mirinmano/Leetcode/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mirinmano/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0900-reordered-power-of-2](https://github.com/Mirinmano/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/Mirinmano/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Mirinmano/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/Mirinmano/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Mirinmano/Leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Mirinmano/Leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/Mirinmano/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Matrix
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Mirinmano/Leetcode/tree/master/0354-russian-doll-envelopes) |
+| [0900-reordered-power-of-2](https://github.com/Mirinmano/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mirinmano/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 ## Binary Indexed Tree
 |  |
@@ -247,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Mirinmano/Leetcode/tree/master/0826-soup-servings) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Mirinmano/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/Mirinmano/Leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->

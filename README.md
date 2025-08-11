@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mirinmano/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mirinmano/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2529-range-product-queries-of-powers](https://github.com/Mirinmano/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mirinmano/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Mirinmano/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mirinmano/Leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Mirinmano/Leetcode/tree/master/0260-single-number-iii) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2529-range-product-queries-of-powers](https://github.com/Mirinmano/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Trie
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0410-split-array-largest-sum](https://github.com/Mirinmano/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2529-range-product-queries-of-powers](https://github.com/Mirinmano/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 ## Sorting
 |  |
 | ------- |

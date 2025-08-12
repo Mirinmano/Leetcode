@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Mirinmano/Leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/Mirinmano/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Mirinmano/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2050-count-good-numbers](https://github.com/Mirinmano/Leetcode/tree/master/2050-count-good-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Mirinmano/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Mirinmano/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Mirinmano/Leetcode/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/Mirinmano/Leetcode/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
 | ------- |

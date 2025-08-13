@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mirinmano/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Mirinmano/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/Mirinmano/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Mirinmano/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Mirinmano/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Mirinmano/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/Mirinmano/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Mirinmano/Leetcode/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Mirinmano/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |

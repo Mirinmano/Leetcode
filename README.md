@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mirinmano/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Mirinmano/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/Mirinmano/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Mirinmano/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/Mirinmano/Leetcode/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/Mirinmano/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2050-count-good-numbers](https://github.com/Mirinmano/Leetcode/tree/master/2050-count-good-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Matrix
 |  |
 | ------- |

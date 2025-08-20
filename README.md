@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Mirinmano/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Mirinmano/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Mirinmano/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1813-maximum-erasure-value](https://github.com/Mirinmano/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2107-find-unique-binary-string](https://github.com/Mirinmano/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mirinmano/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mirinmano/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Mirinmano/Leetcode/tree/master/0079-word-search) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Mirinmano/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Linked List
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0688-knight-probability-in-chessboard](https://github.com/Mirinmano/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0826-soup-servings](https://github.com/Mirinmano/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Mirinmano/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Mirinmano/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Mirinmano/Leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Recursion

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Mirinmano/Leetcode/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0407-trapping-rain-water-ii](https://github.com/Mirinmano/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Mirinmano/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/Mirinmano/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mirinmano/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0565-array-nesting](https://github.com/Mirinmano/Leetcode/tree/master/0565-array-nesting) |
 | [0859-design-circular-deque](https://github.com/Mirinmano/Leetcode/tree/master/0859-design-circular-deque) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mirinmano/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mirinmano/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Mirinmano/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mirinmano/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mirinmano/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mirinmano/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Mirinmano/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mirinmano/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Bit Manipulation
 |  |

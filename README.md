@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Mirinmano/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2401-count-asterisks](https://github.com/Mirinmano/Leetcode/tree/master/2401-count-asterisks) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Mirinmano/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Mirinmano/Leetcode/tree/master/0354-russian-doll-envelopes) |
 | [0900-reordered-power-of-2](https://github.com/Mirinmano/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2117-find-original-array-from-doubled-array](https://github.com/Mirinmano/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2887-sort-vowels-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Mirinmano/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Binary Indexed Tree
 |  |

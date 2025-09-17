@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Mirinmano/Leetcode/tree/master/0140-word-break-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Mirinmano/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0273-integer-to-english-words](https://github.com/Mirinmano/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Mirinmano/Leetcode/tree/master/0394-decode-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Mirinmano/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0556-next-greater-element-iii](https://github.com/Mirinmano/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Mirinmano/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Mirinmano/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mirinmano/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/Mirinmano/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Mirinmano/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mirinmano/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Mirinmano/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Mirinmano/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/Mirinmano/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Mirinmano/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Mirinmano/Leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/Mirinmano/Leetcode/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |

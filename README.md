@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Mirinmano/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mirinmano/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0565-array-nesting](https://github.com/Mirinmano/Leetcode/tree/master/0565-array-nesting) |
+| [0830-largest-triangle-area](https://github.com/Mirinmano/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0859-design-circular-deque](https://github.com/Mirinmano/Leetcode/tree/master/0859-design-circular-deque) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/Mirinmano/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Mirinmano/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0556-next-greater-element-iii](https://github.com/Mirinmano/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0826-soup-servings](https://github.com/Mirinmano/Leetcode/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Mirinmano/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Mirinmano/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [2050-count-good-numbers](https://github.com/Mirinmano/Leetcode/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Mirinmano/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -345,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Mirinmano/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0407-trapping-rain-water-ii](https://github.com/Mirinmano/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [3678-design-task-manager](https://github.com/Mirinmano/Leetcode/tree/master/3678-design-task-manager) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Mirinmano/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
